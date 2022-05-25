@@ -2,7 +2,6 @@
 - 🔭 Atualmente tirando minha certificação em Java
 - 🌱 Estudante da plataforma Alura
 - 💬 Linkedin: www.linkedin.com/in/rafaelciebra
-- 😄 Pronouns: ele/dele
 - ⚡ "Busque o que é significatico e não oque é conveniente"
 
 <div align="center">
