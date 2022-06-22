@@ -10,7 +10,7 @@
     <br>
     <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaciebra&layout=compact&langs_count=7&theme=dark"/>
-    <img align="right" alt="Rafa-pic" height="200" src="https://i.pinimg.com/originals/44/54/d9/4454d936499520af582a42307adb5e51.jpg">
+    <img align="right" alt="Rafa-pic" height="140" src="https://i.pinimg.com/originals/44/54/d9/4454d936499520af582a42307adb5e51.jpg">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
